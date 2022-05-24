@@ -1,3 +1,29 @@
+Home
+
+![Home](https://user-images.githubusercontent.com/99385602/170141164-efc8b193-ea20-459c-9c25-38775e768c3e.jpeg)
+
+About
+
+![AboutMe](https://user-images.githubusercontent.com/99385602/170141301-2b444f9a-ad5d-42a4-a087-227ad6afba20.jpeg)
+
+Services
+
+![Services](https://user-images.githubusercontent.com/99385602/170141372-de492e17-ac6f-4e84-a397-4a9e8ef07803.jpeg)
+
+Projects
+
+![Projects](https://user-images.githubusercontent.com/99385602/170141505-90109143-6f40-4724-b34d-bc67b8f31e33.jpeg)
+
+Wordle Maple Project
+
+![CheckProject](https://user-images.githubusercontent.com/99385602/170141609-535b6e0d-d50f-45bd-88d7-a5fd63beefc5.jpeg)
+
+Contact Me
+
+![ContactMe](https://user-images.githubusercontent.com/99385602/170141652-4409f2e4-46ad-4922-98d0-6aa5043673e6.jpeg)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
